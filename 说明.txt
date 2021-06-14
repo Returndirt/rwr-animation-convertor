@@ -1,0 +1,5 @@
+Running With Rifles Animation Converter 0.1.1
+
+rwrac是用以将mixamo以及符合mixamo标准的.dae模型文件中的动作提取并转化为rwr可用的xml动作的工具，另外还有可以独立使用的处理xml骨架大小的功能。
+
+感谢Xe-No和PlayerFox69提供的帮助。
